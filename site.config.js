@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "도리도리 샘샘",
-    description: "welcome to morethan-log!",
+    description: "개발과 일상을 공유하는 작은 공간입니다.",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
