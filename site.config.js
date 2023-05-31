@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `도리도리 샘샘`,
+      name: `dev_sam`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "도리도리 샘샘",
     description: "welcome to morethan-log!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
