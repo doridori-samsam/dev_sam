@@ -3,9 +3,9 @@ const CONFIG = {
   profile: {
     name: "SamIsForSamantha",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "철학과 문학을 좋아하는 인문학도 개발자입니다",
-    email: "morethanmin.dev@gmail.com",
+    role: "Frontend Developer",
+    bio: "계획은 없지만 일단 전진하는 개발자",
+    email: "samparkmty@gmail.com",
     linkedin: "morethanmin",
     github: "morethanmin",
     instagram: "",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "도리도리 샘샘",
-    description: "개발과 일상을 공유하는 작은 공간입니다.",
+    description: "개발과 일상의 기록을 남기는 소소한 공간입니다.",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
